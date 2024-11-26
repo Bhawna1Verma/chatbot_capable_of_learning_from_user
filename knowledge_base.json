@@ -7,6 +7,10 @@
     {
       "question": "How is the weather today?",
       "answer": "It is nice "
+    },
+    {
+      "question": "weather?",
+      "answer": "good"
     }
   ]
 }
